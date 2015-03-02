@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 831D3060-6266-4E10-BB15-5214DCFAF5D9
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 
 [view layoutIfNeeded];
 
